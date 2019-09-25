@@ -1,0 +1,22 @@
+{
+  "name": "roman-to-decimal-tdd",
+  "version": "1.0.0",
+  "description": "TDD Kata converting roman numeral to decimal",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/roman-to-decimal-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/roman-to-decimal-tdd/issues"
+  },
+  "homepage": "https://github.com/gSchool/roman-to-decimal-tdd#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
